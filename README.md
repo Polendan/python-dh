@@ -6,3 +6,5 @@
 3.  film studies (Soviet and post-Soviet cinema).
 
 ![](https://orig00.deviantart.net/a383/f/2013/024/0/0/disappearrgb_by_madebymv-d5sku6k.jpg)
+
+yes|no|yes
