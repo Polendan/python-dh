@@ -10,5 +10,5 @@
 *№* | *Описание* | *Ссылка на работу*
 ---|:---------:|-----------:
 **1**|          
-**2**|                    https://github.com/Polendan/python-dh-hw/blob/master/HW2.ipynb
+**2**|: https://github.com/Polendan/python-dh-hw/blob/master/HW2.ipynb :|
 **3**|
