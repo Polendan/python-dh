@@ -11,4 +11,4 @@
 ---|:---:|---:
 **1**|          
 **2**|Домашнее задание 2|https://github.com/Polendan/python-dh-hw/blob/master/HW2.ipynb
-**3**|
+**3**|HW3|https://github.com/Polendan/python-dh-hw/blob/master/HW3.ipynb
